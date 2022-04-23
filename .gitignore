@@ -5,6 +5,7 @@ llvm_analysis/AnalysisHelpers/Dr_linker/dr_linker
 llvm_analysis/AnalysisHelpers/EntryPointIdentifier/entry_point_handler
 
 ### OSX ###
+.vscode
 *.DS_Store
 .AppleDouble
 .LSOverride
